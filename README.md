@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">I am a computer science student.<br><br> I'm currently improving my skills in web development, using React,<br> Node, SQL and these things. I also used to programm in Java and C#.</h3>
+<h3 align="left">I am a computer science student.<br><br> I'm currently improving my skills in web development, using React,<br> Node, SQL. I also used to programm in Java and C#.</h3>
 
 ###
 
