@@ -32,7 +32,8 @@
 
 ###
 
-<p align="left">LinkedIn</p>
+<p align="left">LinkedIn:</p>
+https://www.linkedin.com/in/jose-c-m-dev
 
 ###
 
