@@ -43,7 +43,7 @@ https://www.linkedin.com/in/jose-c-m-dev
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jose-C-M-Dev&layout=compact&theme=tokyonight" />
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose-C-M-Dev&theme=tokyonight)
 </div>
 
 ###
